@@ -11,9 +11,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-		//天下第一
-
-
     private FlyBanner mBannerLocal;//加载本地图片
 
     private FlyBanner mBannerNet;//加载网络图片
